@@ -6,6 +6,8 @@ Welcome to my captivating and innovative portfolio website! 🚀 This platform i
 ## Overview
 
 ![Portfolio Preview](https://raw.githubusercontent.com/vijaisuria/portfolio/master/images/screenshot-1.png)
+![Portfolio Preview](https://raw.githubusercontent.com/vijaisuria/portfolio/master/images/screenshot-2.png)
+
 
 ### Features 🌟
 
